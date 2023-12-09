@@ -16,4 +16,7 @@ const Products: any = [
         name: "Classic Lays",
         price: 100
     }
-]
+];
+
+
+export default Products;
